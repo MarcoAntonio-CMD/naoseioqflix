@@ -1,5 +1,5 @@
 body {
-    color: rgb(#2a7ae4);
+    color: rgb(42, 122, 228);
     background: rgb(255, 0, 0);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -10,7 +10,7 @@ header {
     border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(2#2a7ae4);
+    color: rgb(42, 122, 228);
 }
 
 .chamada {
@@ -52,7 +52,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid  rgb(0, 0, 0);
 }
 
 .categoria h2 {
